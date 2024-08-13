@@ -1,0 +1,8 @@
+.navbar-brand img {
+    max-height: 40px;
+}
+@media screen and (max-width: 300px) {
+    div.example {
+      display: none;
+    }
+}
