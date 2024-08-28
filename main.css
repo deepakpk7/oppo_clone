@@ -120,7 +120,11 @@ footer .fa:hover {
 .list-unstyled :hover {
   font-weight: bold;
 }
+.foot-social a{
+  size-adjust: 20px;
+  
 
+}
 /* Carousel and offer styling */
 .carousel-item img {
   width: 100%;
